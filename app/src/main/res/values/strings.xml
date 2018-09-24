@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RecyclerViewPaddingDemo</string>
+    <string name="find_first_item">Find First Item</string>
+</resources>
